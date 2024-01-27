@@ -10,8 +10,7 @@ email: pranavchip@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sophomore at the University of Arizona, pursuing a major in Physics with minors in Computer Science and Mathematics.
   I enjoy working in computational cosmology: the perfect combination of computers and the cosmos!
-footer_text: >
-
+footer_text:
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
